@@ -1,0 +1,30 @@
+i.icon.code{
+    font-size: 2em;
+}
+
+.container.main{
+    margin: 6.0em;
+}
+
+.item img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* edit.ejs */
+#edit{
+    margin-top: 1.5em;
+    text-align: center;
+    
+}
+.icon.edit{
+    padding-left: 0.5em;
+}
+#delete{
+    display: inline;
+    margin-top: 1.5em;
+    text-align: center;
+}
+.icon.trash{
+    padding-left: 0.4em;
+}
