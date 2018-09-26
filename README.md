@@ -13,5 +13,5 @@ This was made as a part of Udemy's Web Developer Bootcamp course.
 * UPDATE: /blogs/:id/ HTTP METHOD: PUT 
 * DELETE: /blogs/:id HTTP METHOD: DELETE
 
-### DEMO
+## USAGE
 Demo of the webpage can be seen in the gif file *Demo.gif*.
